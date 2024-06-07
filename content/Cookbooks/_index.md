@@ -1,5 +1,5 @@
 ---
-title: Restaurants
+title: Cookbooks
 type: docs
 prev: /
 next: 

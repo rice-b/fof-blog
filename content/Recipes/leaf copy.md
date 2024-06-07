@@ -1,7 +1,7 @@
 ---
-title: RecipesX
+title: Cookboks
 type: docs
-prev: /recipes
+prev: /
 next: 
 toc: true
 sidebar:
