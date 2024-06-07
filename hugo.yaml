@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: My Site
+title: Feast of Flavours Blog
 
 # import hextra as module
 module:
@@ -18,29 +18,19 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
-      weight: 1
     - name: About
       pageRef: /about
       weight: 2
-    - name: Contact ↗
-      url: "https://github.com/imfing"
+    - name: Recipes
+      url: /recipes
       weight: 3
-    - name: Search
+    - name: Restaurants
+      url: /restaurants
       weight: 4
+    - name: Search
+      weight: 1
       params:
         type: search
-    - name: GitHub
-      weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
-      params:
-        icon: github
-    - name: Twitter
-      weight: 6
-      url: "https://twitter.com/"
-      params:
-        icon: x-twitter
 
 params:
   navbar:
@@ -49,8 +39,8 @@ params:
 
   footer:
     displayCopyright: false
-    displayPoweredBy: true
+    displayPoweredBy: false
 
   editURL:
-    enable: true
+    enable: false
     base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
