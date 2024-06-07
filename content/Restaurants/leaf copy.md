@@ -10,7 +10,7 @@ toc: true
 Serves **2**, Total Time **40 min** (Prep **15 min**, Cook **25 min**)
 <!-- Provide the serving size and total time, breaking down into prep, marinate, and cook times. -->
 
-<img src="fofblog-image1" alt="Cauliflower Steak with Chimichurri" style="width: 100%;"/>
+<img src="https://photos.google.com/share/AF1QipNojytWxKK4yTq5WniTIy0-7r3u0vp7m1rh03L3-tVElFYoVhv_ateNwfkUgYeoLw/photo/AF1QipNrxkvw6ZRa1Nu54-5DWgJWGXnaHNfAdQ9GCOkz?key=QmdxQjB2aXFfUXVocko1ZWcxWTRUN2dKRHJEY05R" alt="Cauliflower Steak with Chimichurri" style="width: 100%;"/>
 <!-- Provide the URL to the image. Replace 'https://example.com/image.jpg' with the actual image URL. -->
 
 > **Hemingway-style Summary:** Cauliflower steaks with chimichurri and butter bean purée, quick and full of flavor.
