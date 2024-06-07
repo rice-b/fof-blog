@@ -1,221 +1,125 @@
 ---
-title: OSIP Restaurant
+title: Honey & Co’s Air-Fryer Chicken Wings with Baby Potatoes
 type: blog
 prev: restaurants/
 next: 
 toc: true
 ---
+<!-- Update the title, type, prev, and next as needed. Set toc to true if table of contents is needed. -->
 
+Serves **2**, Total Time **1 hr 40 min** (Prep **15 min**, Marinate **1 hr +**, Cook **25 min**)
+<!-- Provide the serving size and total time, breaking down into prep, marinate, and cook times. -->
 
-*Descriptive title of the dish*
+<img src="https://placehold.co/600x400/EEE/31343C" alt="Honey & Co’s Air-Fryer Chicken Wings with Baby Potatoes" style="width: 100%;"/>
+<!-- Provide the URL to the image. Replace 'https://example.com/image.jpg' with the actual image URL. -->
 
----
+> **Hemingway-style Summary:** Chicken wings and potatoes, quick and full of flavor.
+> <!-- Hemingway-style summary should be brief and to the point. -->
+> **Anthony Bourdain-style Summary:** Cheap, quick, and bursting with flavor, these air-fryer chicken wings are perfect for a sofa supper.
+> <!-- Anthony Bourdain-style summary should be candid and flavorful. -->
+> **Nigella Lawson-style Summary:** Deliciously sticky and sweet chicken wings with tender baby potatoes, ideal for a cozy night in.
+> <!-- Nigella Lawson-style summary should be warm and enticing. -->
 
-## Overview:
-Serves **2**, Total Time **40 min**  
-(Prep **15 min**, Marinate **1 hr +**, Cook **25 min**)
+## Ingredients
+<!-- List all ingredients in the order they will be used, with exact measurements and any preparation details. -->
 
----
+### For the marinade
+- **3 garlic cloves**, peeled and smashed
+- **1 tsp sea salt**
+- **A generous pinch freshly ground black pepper**
+- **1 tbsp wholegrain mustard**
+- **1 tbsp dijon mustard**
+- **1 heaped tsp honey**
+- **1 tbsp olive oil**
 
-## Introduction:
-- **Hemingway-style Summary:** *A brief, punchy sentence summarizing the dish.*
-- **Anthony Bourdain-style Summary:** *A candid, flavorful sentence highlighting the essence of the dish.*
-- **Nigella Lawson-style Summary:** *A warm, enticing sentence that draws the reader into the dish.*
-- Brief description of the dish.
-- Any interesting background information or personal anecdotes.
-- Why the reader might like it.
+### For the dish
+- **6 chicken wings**, cut in half to drumstick and winglet
+- **1 lemon**
 
----
+### To serve
+- **1 bag small baby potatoes** (the ratte variety work beautifully here, but any small ones will do)
+- **3 tbsp yoghurt**
+- **1 tsp harissa**
+- **A few parsley or celery leaves**, picked
 
-## Special Equipment:
-- *List any non-standard tools or equipment needed for the recipe.*
+## Instructions
+<!-- Add special equipment if appropriate. -->
+Special Equipment: **Air fryer**
 
----
+{{% steps %}}
+<!-- Break down the instructions into clear steps. -->
 
-## Ingredients:
-*List all ingredients in the order they will be used, with exact measurements and any preparation details.*
+<!-- ### **Preheat the oven:**
+Set your oven to the required temperature. -->
+<!-- Include this step if using an oven, and bold the temperature, e.g., **200°C / Gas Mark 6** -->
 
-*If ingredients are used in multiple steps, break them up accordingly and note total usage.*
+### **Prepare the wings:**
+Put the cut wing halves in a bowl. Cut the lemon in half, and set one half aside. Cut the remaining half-lemon into quarters, then thinly slice it and add to the wings bowl. Add all the marinade ingredients to the bowl, mix to coat and set aside for at least an hour or so and up to 48 hours.
 
-### For the crust:
-- **200g** flour
-- **100g butter**, chilled and diced
+### **Cook the wings:**
+Heat the air fryer to **200°C** for three minutes. Tip all the wings and the marinade into the crisper tray and set the timer for 12 minutes. Once the time is up, lift the tray out of the air fryer, give it a good shake so the wings turn and to ensure they color all over, then return to the fryer for another five minutes. *The wings should be golden brown and crispy.*
+<!-- Add doneness instructions here if needed, and format the text in italics. -->
 
-### For the filling:
-- **100g pancetta**, diced
-- **2 large eggs**
-- **50g Parmesan cheese**, grated
-- **2 cloves garlic**, minced
-- **Salt and pepper** to taste
-- **Fresh parsley**, chopped (optional)
+### **Cook the potatoes:**
+Transfer the wings to a bowl and cover, then put the potatoes into the air fryer – there is no need to add anything else because the tray will have all the juices from cooking the wings. Cook for 10 minutes, still at **200°C**, then return the wings to the tray, laying them on top of the potatoes. Cook for a final four minutes, so everything is nice and hot. *The potatoes should be tender and the wings hot.*
+<!-- Add doneness instructions here if needed, and format the text in italics. -->
 
----
+### **Prepare the yoghurt:**
+Meanwhile, mix the yoghurt with the harissa.
 
-## Instructions:
-*Write clear, step-by-step instructions. Number each step and use concise language.*
+### **Serve:**
+Plate up the wings and potatoes, squeeze the juice of the reserved half-lemon over the wings, then scatter the parsley or celery over the lot and serve.
 
-*If instructions require multiple steps, break them up and clearly state what is needed at each step.*
+{{% /steps %}}
 
-1. **Preheat the oven:** Set your oven to the required temperature.
-2. **Cook the pasta:** Bring a large pot of salted water to a boil. Add the spaghetti and cook according to package instructions until al dente. **Doneness:** The pasta should be firm to the bite. Reserve 1 cup of pasta water, then drain the pasta.
-3. **Prepare the pancetta:** While the pasta is cooking, heat a large skillet over medium heat. Add the diced pancetta and cook until crispy, about 5-7 minutes. **Doneness:** The pancetta should be golden brown and crispy. Remove from heat and set aside.
-4. **Make the sauce:** In a bowl, whisk together the eggs and grated Parmesan cheese. Add a pinch of salt and plenty of black pepper.
-5. **Combine:** Return the skillet with pancetta to low heat. Add the minced garlic and cook for 1 minute until fragrant. **Doneness:** The garlic should be golden and aromatic. Add the drained spaghetti to the skillet and toss to combine.
-6. **Add the egg mixture:** Remove the skillet from heat and quickly pour the egg and cheese mixture over the pasta, tossing constantly to create a creamy sauce. **Doneness:** The sauce should be creamy and smooth, without scrambling the eggs. If the sauce is too thick, add a bit of the reserved pasta water until you reach the desired consistency.
-7. **Serve:** Divide the pasta among plates and garnish with chopped fresh parsley, if desired. Serve immediately with extra grated Parmesan on the side.
+## Information
+<!-- Use tabs to organize additional information. -->
 
----
+{{< tabs items="Preparation,Nutrition,Serving & Storage,Tips & Tricks,Source" >}}
 
-## Cooking Time and Prep Time:
-- **Prep Time:** 10 minutes
-- **Cooking Time:** 15 minutes
-- **Total Time:** 25 minutes
-- **On the day, before:** Ensure all ingredients are prepped and ready before starting the cooking process. Remove from freezer X time or remove from fridge to come up to temperature.
+  {{< tab >}}
+  ### Preparation
+  - **Prep Time:** 15 minutes
+  - **Cooking Time:** 25 minutes
+  - **Total Time:** 1 hr 40 minutes
+  - **On the day, before:** Ensure all ingredients are prepped and ready before starting the cooking process. Remove from freezer [time] or remove from fridge to come up to temperature.
+  <!-- Provide detailed preparation steps, including any pre-cooking instructions. -->
+  {{< /tab >}}
 
----
+  {{< tab >}}
+  ### Nutrition Information (Optional)
+  <!-- Provide nutritional information per serving if available. -->
+  - **Calories:** [Calories]
+  - **Protein:** [Protein]
+  - **Fat:** [Fat]
+  - **Carbohydrates:** [Carbohydrates]
+  - **Fiber:** [Fiber]
+  - **Sugar:** [Sugar]
+  {{< /tab >}}
 
-<details>
-<summary>Insights</summary>
+  {{< tab >}}
+  ### Serving & Storage
+  - **Serving Suggestion:** Pair with a simple green salad and garlic bread.
+  - **Storage Instructions:** Store any leftovers in an airtight container in the refrigerator for up to 2 days. Reheat gently in a skillet with a splash of water to loosen the sauce.
+  - **Variations:** Substitute pancetta with bacon or guanciale. Add peas or sautéed mushrooms for extra flavor.
+  <!-- Provide serving suggestions, storage instructions, and variations. -->
+  {{< /tab >}}
 
-### Source:
-*Include the link or text for the source here.*
+  {{< tab >}}
+  ### Tips & Tricks
+  - **Important Tip:** Shake the air fryer basket halfway through cooking to ensure even browning.
+  - **For Extra Crispy Wings:** Pat the wings dry with paper towels before marinating.
+  - **Marinating Time:** For best flavor, marinate the wings for at least 1 hour or up to 48 hours.
+  - **Yoghurt Sauce:** Adjust the amount of harissa in the yoghurt to your preferred spice level.
+  - **Serving Suggestion:** Serve with lemon wedges for an extra zesty flavor.
+  <!-- Add any additional tips specific to the recipe here. -->
+  {{< /tab >}}
 
-### Serving Suggestions:
-- *Ideas on how to serve or pair the dish.*
+  {{< tab >}}
+  ### Source
+  **Link:** [The Guardian’s Honey & Co’s Air-Fryer Chicken Wings with Baby Potatoes](https://www.theguardian.com/food/2024/jun/06/honey-co-air-fryer-chicken-wings-baby-potatoes-recipe)  
+  **Author(s):** Sarit Packer and Itamar Srulovich  
+  <!-- Include the source type (e.g., Cookbook, Link) and the author(s). -->
+  {{< /tab >}}
 
-### Storage Instructions:
-- *How to store leftovers and how long they will last. Mention the storage temperature and duration.*
-
-### Variations:
-- *Suggestions for variations or ingredient substitutions.*
-
-### Tips:
-- **Important Tip:** Reserve 1 cup of pasta water before draining. This can be used to adjust the sauce consistency.
-- *Tossing the pasta quickly with the egg mixture off the heat ensures a creamy texture without scrambling the eggs.*
-
-### Tips for Success:
-- Use freshly grated Parmesan for the best flavor and texture.
-- Make sure to reserve pasta water to adjust the sauce consistency.
-
-### Rescue Tips:
-- **Sauce too runny:** Simmer the sauce longer to reduce it, or add a slurry of cornstarch and water.
-- **Sauce too thick:** Thin it with reserved pasta water or a splash of milk/cream.
-- **Too salty:** Add a small amount of sugar or acid (like lemon juice) to balance the flavors.
-
-### References to Technique Guides:
-- *Links to guides or videos for any specialized techniques.*
-
-### Nutrition Information (Optional):
-*Provide nutritional information per serving if available.*
-
-- **Calories:** 
-- **Protein:** 
-- **Fat:** 
-- **Carbohydrates:** 
-- **Fiber:** 
-- **Sugar:** 
-</details>
-
----
-
-# Example Recipe
-
-## Title:
-
-Classic Spaghetti Carbonara
-
----
-
-## Overview:
-Serves **2**, Total Time **40 min**  
-(Prep **15 min**, Cook **25 min**)
-
----
-
-## Introduction:
-- **Hemingway-style Summary:** Simple, hearty, and satisfying pasta.
-- **Anthony Bourdain-style Summary:** A rich, creamy pasta that’s unapologetically indulgent.
-- **Nigella Lawson-style Summary:** A comforting bowl of pasta, perfect for cozy nights in.
-- This classic Italian pasta dish combines creamy eggs, savory pancetta, and sharp Parmesan cheese for a simple yet indulgent meal. Perfect for a quick weeknight dinner or a special occasion, Spaghetti Carbonara is sure to become a favorite in your household.
-
----
-
-## Special Equipment:
-- *Large skillet*
-- *Mixing bowls*
-
----
-
-## Ingredients:
-- **200g** spaghetti
-- **100g pancetta**, diced
-- **2 large eggs**
-- **50g Parmesan cheese**, grated
-- **2 cloves garlic**, minced
-- **Salt and pepper** to taste
-- **Fresh parsley**, chopped (optional)
-
----
-
-## Instructions:
-1. **Preheat the oven:** No preheating needed for this recipe.
-2. **Cook the pasta:** Bring a large pot of salted water to a boil. Add the spaghetti and cook according to package instructions until al dente. **Doneness:** The pasta should be firm to the bite. Reserve 1 cup of pasta water, then drain the pasta.
-3. **Prepare the pancetta:** While the pasta is cooking, heat a large skillet over medium heat. Add the diced pancetta and cook until crispy, about 5-7 minutes. **Doneness:** The pancetta should be golden brown and crispy. Remove from heat and set aside.
-4. **Make the sauce:** In a bowl, whisk together the eggs and grated Parmesan cheese. Add a pinch of salt and plenty of black pepper.
-5. **Combine:** Return the skillet with pancetta to low heat. Add the minced garlic and cook for 1 minute until fragrant. **Doneness:** The garlic should be golden and aromatic. Add the drained spaghetti to the skillet and toss to combine.
-6. **Add the egg mixture:** Remove the skillet from heat and quickly pour the egg and cheese mixture over the pasta, tossing constantly to create a creamy sauce. **Doneness:** The sauce should be creamy and smooth, without scrambling the eggs. If the sauce is too thick, add a bit of the reserved pasta water until you reach the desired consistency.
-7. **Serve:** Divide the pasta among plates and garnish with chopped fresh parsley, if desired. Serve immediately with extra grated Parmesan on the side.
-
----
-
-## Cooking Time and Prep Time:
-- **Prep Time:** 10 minutes
-- **Cooking Time:** 15 minutes
-- **Total Time:** 25 minutes
-- **On the day, before:** Ensure all ingredients are prepped and ready before starting the cooking process.
-
----
-
-<details>
-<summary>Insights</summary>
-
-### Source:
-[Nigella Lawson's Spaghetti Carbonara](https://www.nigella.com/recipes/classic-spaghetti-carbonara)
-
-### Serving Suggestions:
-- Pair with a simple green salad and garlic bread.
-
-### Storage Instructions:
-- Store any leftovers in an airtight container in the refrigerator for up to 2 days. Reheat gently in a skillet with a splash of water to loosen the sauce.
-
-### Variations:
-- Substitute pancetta with bacon or guanciale. Add peas or sautéed mushrooms for extra flavor.
-
-### Tips:
-- **Important Tip:** Reserve 1 cup of pasta water before draining. This can be used to adjust the sauce consistency.
-- Tossing the pasta quickly with the egg mixture off the heat ensures a creamy texture without scrambling the eggs.
-
-### Tips for Success:
-- Use freshly grated Parmesan for the best flavor and texture.
-- Make sure to reserve pasta water to adjust the sauce consistency.
-
-### Rescue Tips:
-- **Sauce too runny:** Simmer the sauce longer to reduce it, or add a slurry of cornstarch and water.
-- **Sauce too thick:** Thin it with reserved pasta water or a splash of milk/cream.
-- **Too salty:** Add a small amount of sugar or acid (like lemon juice) to balance the flavors.
-
-### References to Technique Guides:
-- [How to Cook Perfect Pasta](https://www.example.com/cook-perfect-pasta)
-- [Tips for Crispy Pancetta](https://www.example.com/crispy-pancetta)
-
-### Nutrition Information (Optional):
-- **Calories:** 450 per serving
-- **Protein:** 20g
-- **Fat:** 22g
-- **Carbohydrates:** 45g
-- **Fiber:** 2g
-- **Sugar:** 2g
-</details>
-
----
-
+{{< /tabs >}}
