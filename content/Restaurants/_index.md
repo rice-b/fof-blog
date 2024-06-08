@@ -1,6 +1,6 @@
 ---
 title: Restaurants
-type: docs
+type: blog
 prev: /
 next: 
 sidebar:
