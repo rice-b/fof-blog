@@ -1,27 +1,35 @@
 ---
-title: Alfiecooks's Cauliflower Steak with Chimichurri
+title: Cauliflower Steak & Chimichurri
 type: blog
 prev: recipes/
 next: 
 toc: true
 ---
-<!-- Update the title, type, prev, and next as needed. Set toc to true if table of contents is needed. -->
+<!-- Title should be a maximum of 38 characters including spaces. Update the title, type, prev, and next as needed. Set toc to true if table of contents is needed. -->
 
 Serves **2**, Total Time **40 min** (Prep **15 min**, Cook **25 min**)
 <!-- Provide the serving size and total time, breaking down into prep, marinate, and cook times. -->
 
-<img src="https://placehold.co/600x400/EEE/31343C" alt="Cauliflower Steak with Chimichurri" style="width: 100%;"/>
-<!-- Provide the URL to the image. Replace 'https://example.com/image.jpg' with the actual image URL. -->
+<img src="images/cauliflower_steak.jpg" alt="Cauliflower Steak with Chimichurri" style="width: 100%;"/>
+<!-- Provide the URL to the image. Replace 'images/cauliflower_steak.jpg' with the actual image file path. -->
 
-> **Hemingway-style Summary:** Cauliflower steaks with chimichurri and butter bean purée, quick and full of flavor.
+> Cauliflower steaks with chimichurri and butter bean purée, quick and full of flavor.
 > <!-- Hemingway-style summary should be brief and to the point. -->
-> **Anthony Bourdain-style Summary:** Simple, plant-based ingredients come together to make a fancy-sounding but easy and quick dish.
+> Simple, plant-based ingredients come together to make a fancy-sounding but easy and quick dish.
 > <!-- Anthony Bourdain-style summary should be candid and flavorful. -->
-> **Nigella Lawson-style Summary:** Deliciously seared cauliflower steaks with a zesty chimichurri and creamy butter bean purée, perfect for a cozy night in.
+> Deliciously seared cauliflower steaks with a zesty chimichurri and creamy butter bean purée, perfect for a cozy night in.
 > <!-- Nigella Lawson-style summary should be warm and enticing. -->
+> Cauliflower steaks, golden and crisp, with a punchy chimichurri and silky butter bean purée, a vegan delight.
+> <!-- Nigel Slater-style summary should be evocative and sensory. -->
+> An unexpectedly luxurious dish, these cauliflower steaks with chimichurri and butter bean purée are a testament to the beauty of simplicity.
+> <!-- Giles Coren-style summary should be sophisticated and reflective. -->
+> A vibrant and satisfying plate, cauliflower steaks with chimichurri and butter bean purée bring together bold flavors and creamy textures.
+> <!-- Jay Rayner-style summary should be dynamic and engaging. -->
+> Comforting yet elegant, these cauliflower steaks with chimichurri and butter bean purée offer a delightful culinary experience.
+> <!-- Grace Dent-style summary should be comforting and charming. -->
 
 ## Ingredients
-<!-- List all ingredients in the order they will be used, with exact measurements and any preparation details. -->
+<!-- List all ingredients in the order they will be used, with exact measurements and any preparation details. Use the format: **[Amount] [Ingredient]**, [Preparation details]. -->
 
 ### For the cauliflower
 - **2 cauliflower steaks** (from 1 large cauli)
@@ -50,15 +58,15 @@ Serves **2**, Total Time **40 min** (Prep **15 min**, Cook **25 min**)
 - **Pepper**
 
 ## Instructions
-<!-- Add special equipment if appropriate. -->
+<!-- Break down the instructions into clear steps. Use a conversational yet informative tone. Add special equipment if appropriate. -->
+
 Special Equipment: **Frying pan**
 
 {{% steps %}}
-<!-- Break down the instructions into clear steps. Use a conversational yet informative tone. -->
 
+<!-- Include this step if using an oven, and bold the temperature, e.g., **200°C / Gas Mark 6** -->
 <!-- ### **Preheat the oven:**
 Set your oven to the required temperature. -->
-<!-- Include this step if using an oven, and bold the temperature, e.g., **200°C / Gas Mark 6** -->
 
 ### **Make the chimichurri:**
 Finely chop the fresh herbs, then add to a mixing bowl. Finely dice the chilli, mince the garlic and add to the herbs with the vinegar. Season to taste, then stream in the olive oil whilst mixing until thoroughly combined. Set aside.
@@ -83,15 +91,22 @@ Pour the butter bean purée into the middle of a plate. Place the steak on top, 
 ## Information
 <!-- Use tabs to organize additional information. -->
 
-{{< tabs items="Preparation,Nutrition,Serving & Storage,Tips & Tricks,Source" >}}
+{{< tabs items="Overview,Nutrition,Tips" >}}
 
   {{< tab >}}
-  ### Preparation
+  ### Overview
+  **Source:** [alfiecooks_'s Instagram Post](https://www.instagram.com/reel/C38JjduK6vf/)
+  **Author(s):** Alfie
+  <!-- Include the source type (e.g., Cookbook, Link) and the author(s). -->
+
   - **Prep Time:** 15 minutes
   - **Cooking Time:** 25 minutes
   - **Total Time:** 40 minutes
   - **On the day, before:** Ensure all ingredients are prepped and ready before starting the cooking process.
   <!-- Provide detailed preparation steps, including any pre-cooking instructions. Keep instructions clear and concise. -->
+
+  **Serving Suggestion:** Pair with a simple green salad.
+  **Storage Instructions:** Store any leftovers in an airtight container in the refrigerator for up to 2 days.
   {{< /tab >}}
 
   {{< tab >}}
@@ -106,27 +121,12 @@ Pour the butter bean purée into the middle of a plate. Place the steak on top, 
   {{< /tab >}}
 
   {{< tab >}}
-  ### Serving & Storage
-  - **Serving Suggestion:** Pair with a simple green salad.
-  - **Storage Instructions:** Store any leftovers in an airtight container in the refrigerator for up to 2 days.
-  - **Variations:** Use different herbs in the chimichurri or add other spices to the cauliflower seasoning.
-  <!-- Provide serving suggestions, storage instructions, and variations. Ensure to mention how to store leftovers and for how long. -->
-  {{< /tab >}}
-
-  {{< tab >}}
-  ### Tips & Tricks
+  ### Tips
   - **Important Tip:** Make sure to press down the cauliflower steaks while searing to get a good crust.
   - **For Extra Crispy Cauliflower:** Pat the steaks dry before seasoning.
   - **Cooking Time:** Ensure the cauliflower is tender by checking with a fork.
   - **Butter Bean Purée:** Adjust the consistency by adding more olive oil or water as needed.
   <!-- Add any additional tips specific to the recipe here. Provide helpful tips to ensure the dish turns out perfectly. -->
-  {{< /tab >}}
-
-  {{< tab >}}
-  ### Source
-  **Link:** [alfiecooks_'s Instagram Post](https://www.instagram.com/reel/C38JjduK6vf/)
-  **Author(s):** Alfie
-  <!-- Include the source type (e.g., Cookbook, Link) and the author(s). -->
   {{< /tab >}}
 
 {{< /tabs >}}
