@@ -11,7 +11,7 @@ toc: true
 Serves **4**, Total Time **1 hr** (Prep **15 min**, Cook **45 min**)
 <!-- Provide the serving size and total time, breaking down into prep, marinate, and cook times. -->
 
-<img src="images/lentils_pomegranate_molasses.jpg" alt="Lentils with Pomegranate Molasses & Lemon Tahini" style="width: 100%;"/>
+<img src="content/media/cookbook_flavour.jpg" alt="Lentils with Pomegranate Molasses & Lemon Tahini" style="width: 100%;"/>
 <!-- Provide the URL to the image. Replace 'images/lentils_pomegranate_molasses.jpg' with the actual image file path. -->
 
 > A comforting bowl of lentils, brightened by pomegranate molasses and lemon tahini, offering a beautiful balance of flavours.
