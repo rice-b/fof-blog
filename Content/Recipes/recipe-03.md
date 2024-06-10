@@ -16,18 +16,6 @@ Serves **4**, Total Time **1 hr** (Prep **15 min**, Cook **45 min**)
 ![Lentils with Pomegranate Molasses & Lemon Tahini](recipe-03.png)
 <!-- Provide the URL to the image. Replace 'recipe-03.png' with the actual image file path. -->
 
-> Lentils with pomegranate molasses and lemon tahini, a vegan delight.
-> <!-- Hemingway-style summary should be: Brief, clear, and to the point, capturing the essence without embellishment. -->
-> A vibrant, tangy dish that combines hearty lentils with the sweetness of pomegranate molasses and the zing of lemon tahini.
-> <!-- Anthony Bourdain-style summary should be: Candid, vivid, and full of personality, making the description lively and engaging. -->
-> Earthy lentils meet the sweet-tart tang of pomegranate molasses and a creamy lemon tahini drizzle, perfect for a wholesome meal.
-> <!-- Nigella Lawson-style summary should be: Warm, inviting, and intimate, creating a sense of comfort and indulgence. -->
-> A comforting bowl of lentils, brightened by pomegranate molasses and lemon tahini, offering a beautiful balance of flavours.
-> <!-- Nigel Slater-style summary should be: Poetic, sensory, and evocative, drawing readers into a richly described culinary experience. -->
-> This dish of lentils with pomegranate molasses and lemon tahini is an ode to vibrant, balanced flavours and wholesome ingredients.
-> <!-- Giles Coren-style summary should be: Sophisticated, witty, and reflective, combining a critical eye with engaging storytelling. -->
-> A lively and nutritious dish, lentils with pomegranate molasses and lemon tahini combines robust flavours and creamy textures.
-> <!-- Jay Rayner-style summary should be: Dynamic and engaging, with a focus on storytelling and drawing readers into the dining experience. -->
 > A deliciously vibrant meal, these lentils with pomegranate molasses and lemon tahini offer a beautiful harmony of tastes and textures.
 > <!-- Grace Dent-style summary should be: Comforting, charming, and nostalgic, emphasising the emotional connection to food and its ability to bring people together. -->
 
