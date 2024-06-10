@@ -23,3 +23,5 @@ Discover some of our latest cookbook finds that have quickly become favorites:
   {{< card link="https://example.com/latest2" title="Latest Cookbook 2" image="images/latest2.jpg" subtitle="Fresh and exciting culinary ideas." >}}
   {{< card link="https://example.com/latest3" title="Latest Cookbook 3" image="images/latest3.jpg" subtitle="Contemporary cuisine at its best." >}}
 {{< /cards >}}
+
+![Cookbook Collage](cookbooks.png)

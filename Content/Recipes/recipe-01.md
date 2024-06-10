@@ -5,28 +5,19 @@ prev: recipes/
 next: 
 toc: true
 ---
-<!-- Title should be a maximum of 38 characters including spaces. Update the title, type, prev, and next as needed. Use UK English throughout. -->
+<!-- recipe-01 -->
+<!-- Title should be a maximum of 38 characters including spaces. Update the title, type, prev, and next as needed. Use UK English throughout. 
+     Never remove comments in this markdown file. Edits can only build on the points so they don't update and remove detail.
+     recipe-03. The first line stating recipe-03 needs to be the same recipe-##, in the line with the image. -->
 
 Serves **2**, Total Time **40 min** (Prep **15 min**, Cook **25 min**)
 <!-- Provide the serving size and total time, breaking down into prep, marinate, and cook times. -->
 
-<img src="images/cauliflower_steak.jpg" alt="Cauliflower Steak with Chimichurri" style="width: 100%;"/>
-<!-- Provide the URL to the image. Replace 'images/cauliflower_steak.jpg' with the actual image file path. -->
+![Cauliflower Steak with Chimichurri](recipe-01.png)
+<!-- Provide the URL to the image. Replace 'recipe-03.png' with the actual image file path. -->
 
-> Cauliflower steaks with chimichurri and butter bean purée, quick and full of flavour.
-> <!-- Hemingway-style summary should be: Brief, clear, and to the point, capturing the essence without embellishment. -->
-> Simple, plant-based ingredients come together to make a fancy-sounding but easy and quick dish.
-> <!-- Anthony Bourdain-style summary should be: Candid, vivid, and full of personality, making the description lively and engaging. -->
-> Deliciously seared cauliflower steaks with a zesty chimichurri and creamy butter bean purée, perfect for a cosy night in.
-> <!-- Nigella Lawson-style summary should be: Warm, inviting, and intimate, creating a sense of comfort and indulgence. -->
-> Cauliflower steaks, golden and crisp, with a punchy chimichurri and silky butter bean purée, a vegan delight.
-> <!-- Nigel Slater-style summary should be: Poetic, sensory, and evocative, drawing readers into a richly described culinary experience. -->
-> An unexpectedly luxurious dish, these cauliflower steaks with chimichurri and butter bean purée are a testament to the beauty of simplicity.
-> <!-- Giles Coren-style summary should be: Sophisticated, witty, and reflective, combining a critical eye with engaging storytelling. -->
 > A vibrant and satisfying plate, cauliflower steaks with chimichurri and butter bean purée bring together bold flavours and creamy textures.
 > <!-- Jay Rayner-style summary should be: Dynamic and engaging, with a focus on storytelling and drawing readers into the dining experience. -->
-> Comforting yet elegant, these cauliflower steaks with chimichurri and butter bean purée offer a delightful culinary experience.
-> <!-- Grace Dent-style summary should be: Comforting, charming, and nostalgic, emphasising the emotional connection to food and its ability to bring people together. -->
 
 ## Ingredients
 <!-- List all ingredients in the order they will be used, with exact measurements and any preparation details. Use the format: **[Amount] [Ingredient]**, [Preparation details in italics]. If dicing or chopping, provide an indication of thickness/size in mm. -->
@@ -59,7 +50,8 @@ Serves **2**, Total Time **40 min** (Prep **15 min**, Cook **25 min**)
 
 ## Instructions
 <!-- Break down the instructions into clear steps. Use a conversational yet informative tone. Add equipment if appropriate. Use UK English throughout. 
-     Add doneness instructions after the relevant step, and format the text in italics. -->
+     Add doneness instructions after the relevant step, and format the text in italics. 
+     List any special equipment needed for the recipe, in this format: Equipment: **[Item]** -->
 
 Equipment: **Frying pan**
 <!-- List any special equipment needed for the recipe, in this format: Equipment: **[Item]** -->
