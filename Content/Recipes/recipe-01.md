@@ -8,7 +8,7 @@ toc: true
 <!-- recipe-01 -->
 <!-- Title should be a maximum of 38 characters including spaces. Update the title, type, prev, and next as needed. Use UK English throughout. 
      Never remove comments in this markdown file. Edits can only build on the points so they don't update and remove detail.
-     recipe-03. The first line stating recipe-03 needs to be the same recipe-##, in the line with the image. -->
+     recipe-01. The first line stating recipe-01 needs to be the same recipe-##, in the line with the image. -->
 
 Serves **2**, Total Time **40 min** (Prep **15 min**, Cook **25 min**)
 <!-- Provide the serving size and total time, breaking down into prep, marinate, and cook times. -->
