@@ -11,7 +11,7 @@ toc: true
 Serves **4**, Total Time **1 hr** (Prep **15 min**, Cook **45 min**)
 <!-- Provide the serving size and total time, breaking down into prep, marinate, and cook times. -->
 
-![XX](recipe-01.jpg)
+![XX](recipe-01.png)
 
 <img src="https://unsplash.com/photos/a-close-up-of-a-tree-with-white-flowers-WP9HBxVH-u8" alt="Lentils with Pomegranate Molasses & Lemon Tahini" style="width: 100%;"/>
 <!-- Provide the URL to the image. Replace 'images/lentils_pomegranate_molasses.jpg' with the actual image file path. -->
