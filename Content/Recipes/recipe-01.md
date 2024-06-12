@@ -87,7 +87,7 @@ Pour the butter bean purée into the middle of a plate. Place the steak on top, 
 
 {{< tabs items="Overview,Nutrition,Tips,List" >}}
 
-  {{< tab >}}
+  {{< tab closed="true">}}
   ### Overview
   - **Credit:** [alfiecooks_'s Instagram Post](https://www.instagram.com/reel/C38JjduK6vf/) by Alfie
   <!-- Use this format for credits: **Credit:** [Link](URL) by Author. -->

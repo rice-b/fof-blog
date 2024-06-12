@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Us
 type: about
 
 ---
@@ -21,7 +21,7 @@ Immerse yourself in the Feast of Flavours, where every post promises not just a 
 > Feast of Flavours is more than a blog; it's a journey, a community, and a destination for all things delightful and delicious. Join us as we taste the world!
 >
 ## Glossary
-{{% details title="##Cookbooks" %}}
+{{% details title="Cookbooks" closed="true" %}}
 
 This is the content of the details.
 
@@ -40,20 +40,16 @@ Discover some of our latest cookbook finds that have quickly become favorites:
 - 2
 
 {{% /details %}}
-{{% details title="Cuisines" %}}
+{{% details title="Cuisines" closed="true" %}}
 
 This is the content of the details.
 
-African Cuisines
+### African Cuisines
 
-Central African
-    Cameroonian
-    Congolese
-East African
-    Ethiopian
-    Kenyan
-    Somali
-    Tanzanian
+#### Central African
+- Cameroonian, Congolese
+#### East African
+- Ethiopian, Kenyan, Somali, Tanzanian
 North African
     Algerian
     Egyptian
@@ -71,7 +67,7 @@ West African
     Nigerian
     Senegalese
 
-Asian Cuisines
+### Asian Cuisines
 
 Central Asian
     Afghan
