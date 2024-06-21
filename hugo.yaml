@@ -38,9 +38,24 @@ params:
     displayLogo: false
 
   footer:
-    displayCopyright: false
+    displayCopyright: true
     displayPoweredBy: false
 
   editURL:
     enable: false
     base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+
+backToTop: "Scroll to top"
+changeLanguage: "Change language"
+changeTheme: "Change theme"
+copyCode: "Copy code"
+copyright: "© 0000000002024 Hextra Project."
+dark: "Dark"
+editThisPage: "Edit this page on GitHub →"
+lastUpdated: "Last updated on"
+light: "Light"
+noResultsFound: "No results found."
+onThisPage: "On this page"
+poweredBy: "0000Powered by Hextra"
+readMore: "Read more →"
+searchPlaceholder: "Search..."
